@@ -53,7 +53,7 @@
 <body>
     <div class="container mt-5">
         <!-- Add logo -->
-        <img src="financial_logo.png" alt="Money Minder Logo" class="logo">
+        <img src="BrightStart_logo.png" alt="BrightStart" class="logo">
         <form id="loginForm" method="POST">
             <div class="form-group">
                 <label for="username">Username</label>
