@@ -1,4 +1,4 @@
-# MoneyMinder Budget Calculator
+# StartBright Budget Calculator
 
 def get_income():
     try:
